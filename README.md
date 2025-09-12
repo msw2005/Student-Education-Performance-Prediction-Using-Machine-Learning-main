@@ -88,7 +88,7 @@ The project has the following structure:
 - `templates`: This directory contains HTML templates used in the web application.
 
 ## Author
-M Sadiq Warsi, You can also visit my GitHub profile: @msw007
+M Sadiq Warsi, You can also visit my GitHub profile: @msw2005
 
 Feel free to reach out with any questions or feedback regarding the project.
 
