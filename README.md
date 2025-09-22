@@ -47,7 +47,7 @@ The dataset used for training the machine learning model is sourced from [Kaggle
 
 ## Model Training
 
-The machine learning model is trained using a supervised learning algorithm, such as a decision tree or random forest, to predict the math score based on the input features. The dataset is split into training and testing sets to evaluate the model's performance.
+The machine learning model is trained using a supervised learning algorithm, such as a decision tree or random forest, to predict the math score based on the input features. The dataset is split into training and testing sets to evaluate the model's performance
 
 ## Results
 
