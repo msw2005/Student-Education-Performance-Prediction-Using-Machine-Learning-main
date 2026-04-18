@@ -5,9 +5,10 @@ HYPHEN_E_DOT = '-e .'
 
 def get_requirements(file_path:str)->List[str]:
     '''
-    this function will return a list of requirements
+    this function will return a list of requirements init
     '''
     requirements = []
+    # requirements array
     with open(file_path) as file_obj:
         requirements = file_obj.readlines()
         requirements = [req.replace("\n","") for req in requirements]
