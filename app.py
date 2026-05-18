@@ -1,6 +1,7 @@
 from flask import Flask, request, render_template
 # importing flask
 import numpy as np
+#import the numpy library
 import pandas as pd
 # Import functions here
 from sklearn.preprocessing import StandardScaler
